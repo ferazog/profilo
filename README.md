@@ -5,4 +5,4 @@
 # Profilo 👤
 Learning Jetpack Compose
 
-![Demo](https://github.com/felipeerazog/profilo/blob/master/readmeresources/demo0.webm)
+![Demo](https://github.com/felipeerazog/profilo/blob/master/readmeresources/demo0.gif)
