@@ -8,6 +8,6 @@ Learning Jetpack Compose
 ## Demo
 
 
-https://user-images.githubusercontent.com/34697638/143661575-dc167e02-dffd-45a1-8352-1ddbf7b4908e.mov
+https://user-images.githubusercontent.com/34697638/143661575-dc167e02-dffd-45a1-8352-1ddbf7b4908e.mov?style=centerme
 
 
